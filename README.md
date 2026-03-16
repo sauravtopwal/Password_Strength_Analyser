@@ -7,3 +7,4 @@ PST Tool is an AI-powered password intelligence tool that thinks like a security
 Unlike traditional password meters that run basic rules, PST Agent uses an agentic AI architecture — it orchestrates multiple analysis layers, reasons over the combined results, and synthesizes a single intelligent verdict. It doesn't just tell you your password is weak. It tells you exactly why, how an attacker would exploit it, and what to do about it.
 
 Created by SauSec
+
